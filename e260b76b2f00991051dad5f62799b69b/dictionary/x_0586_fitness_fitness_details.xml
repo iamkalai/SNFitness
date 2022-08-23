@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Fitness Details" max_length="40" name="x_0586_fitness_fitness_details" sizeclass="226" type="collection">
+        <element label="Average Calories" max_length="15" name="average_calories" type="decimal"/>
+        <element label="Average Heart Points" max_length="15" name="average_heart_points" type="decimal"/>
+        <element label="Average Steps" max_length="15" name="average_steps" type="decimal"/>
+        <element label="Calories" max_length="15" name="calories" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Date" max_length="40" name="date" type="glide_date"/>
+        <element label="Heart Points" max_length="40" name="heart_points" type="integer"/>
+        <element label="Move Minutes" max_length="40" name="move_minutes" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Steps" max_length="40" name="steps" type="integer"/>
+    </element>
+</database>

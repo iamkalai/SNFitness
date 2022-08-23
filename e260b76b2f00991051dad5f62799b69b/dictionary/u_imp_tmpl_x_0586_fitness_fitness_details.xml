@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X 0586 Fitness Fitness Details" max_length="40" name="u_imp_tmpl_x_0586_fitness_fitness_details" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Average Calories" label="Average Calories" max_length="15" name="u_average_calories" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Average Heart Points" label="Average Heart Points" max_length="15" name="u_average_heart_points" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Average Steps" label="Average Steps" max_length="15" name="u_average_steps" type="string"/>
+        <element attributes="import_attribute_name=Calories" label="Calories" max_length="15" name="u_calories" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Date" label="Date" max_length="40" name="u_date" type="glide_date"/>
+        <element attributes="import_attribute_name=Heart Points" label="Heart Points" max_length="40" name="u_heart_points" type="integer"/>
+        <element attributes="import_attribute_name=Move Minutes" label="Move Minutes" max_length="40" name="u_move_minutes" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Number" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="import_attribute_name=Steps" label="Steps" max_length="40" name="u_steps" type="integer"/>
+    </element>
+</database>

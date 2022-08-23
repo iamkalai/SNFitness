@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="calories" label="Calories" language="en" table="x_0586_fitness_fitness_details">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>calories</element>
+            <help/>
+            <hint/>
+            <label>Calories</label>
+            <language>en</language>
+            <name>x_0586_fitness_fitness_details</name>
+            <plural>Calories</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-19 06:28:42</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>c9a1732f2f00991051dad5f62799b668</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Calories</sys_name>
+            <sys_package display_value="Fitness" source="x_0586_fitness">e260b76b2f00991051dad5f62799b69b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Fitness">e260b76b2f00991051dad5f62799b69b</sys_scope>
+            <sys_update_name>sys_documentation_x_0586_fitness_fitness_details_calories_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-19 06:28:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

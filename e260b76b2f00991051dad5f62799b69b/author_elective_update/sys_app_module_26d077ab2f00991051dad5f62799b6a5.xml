@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Fitness 1655619903380</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_0586_fitness_1655619903380</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-19 06:25:15</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path/>
+        <sys_id>26d077ab2f00991051dad5f62799b6a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fitness 1655619903380</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Fitness" source="x_0586_fitness">e260b76b2f00991051dad5f62799b69b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Fitness">e260b76b2f00991051dad5f62799b69b</sys_scope>
+        <sys_update_name>sys_app_module_26d077ab2f00991051dad5f62799b6a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-19 06:25:15</sys_updated_on>
+        <timeline_page/>
+        <title>Fitness 1655619903380</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fitness">e260b76b2f00991051dad5f62799b69b</application>
+        <file_path/>
+        <instance_id>94cee5d84fc712c094ac220f0310c711</instance_id>
+        <instance_name>dev21998</instance_name>
+        <name>sys_app_module_26d077ab2f00991051dad5f62799b6a5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Fitness 1655619903380</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_0586_fitness_1655619903380</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><survey/><survey_overwrite>true</survey_overwrite><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-19 06:25:15</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path/><sys_id>26d077ab2f00991051dad5f62799b6a5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Fitness 1655619903380</sys_name><sys_overrides/><sys_package display_value="Fitness" source="x_0586_fitness">e260b76b2f00991051dad5f62799b69b</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Fitness">e260b76b2f00991051dad5f62799b69b</sys_scope><sys_update_name>sys_app_module_26d077ab2f00991051dad5f62799b6a5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-19 06:25:15</sys_updated_on><timeline_page/><title>Fitness 1655619903380</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-382564239</payload_hash>
+        <record_name>Fitness 1655619903380</record_name>
+        <reverted_from/>
+        <source>6e60b76b2f00991051dad5f62799b69d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-19 06:25:15</sys_created_on>
+        <sys_id>6ed077ab2f00991051dad5f62799b6a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1817aa30ea50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-19 06:25:15</sys_updated_on>
+        <type>Module</type>
+        <update_guid>66d077ab82009910ba9d14f874c0c1a8</update_guid>
+        <update_guid_history>66d077ab82009910ba9d14f874c0c1a8:-382564239</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2022-06-19 11:59:05">eab1b72f2f00991051dad5f62799b63b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-19 06:29:05</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>47b6f76f38a44017a1ee4d3ac3aea781</sys_id>
+        <sys_metadata>26d077ab2f00991051dad5f62799b6a5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fitness 1655619903380</sys_name>
+        <sys_package display_value="Fitness" source="x_0586_fitness">e260b76b2f00991051dad5f62799b69b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Fitness">e260b76b2f00991051dad5f62799b69b</sys_scope>
+        <sys_scope_delete display_value="">b8d7fb7c76e84a9294c2a33c3eac9044</sys_scope_delete>
+        <sys_update_name>sys_app_module_26d077ab2f00991051dad5f62799b6a5</sys_update_name>
+        <sys_update_version display_value="sys_app_module_26d077ab2f00991051dad5f62799b6a5">6ed077ab2f00991051dad5f62799b6a8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-19 06:29:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
