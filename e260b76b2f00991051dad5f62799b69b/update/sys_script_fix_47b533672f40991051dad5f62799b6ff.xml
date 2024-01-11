@@ -4,37 +4,46 @@
         <description/>
         <name>Calculate average fitness details</name>
         <record_for_rollback>true</record_for_rollback>
-        <script><![CDATA[var data = [];
-var result = [];
+        <script><![CDATA[var data1 = [],
+    data2 = [],
+    data3 = [];
+var result1 = [],
+    result2 = [],
+    result3 = [];
 var resultCounter = 0;
 var gr = new GlideRecord("x_0586_fitness_fitness_details");
+gr.addEncodedQuery("date>=javascript:gs.dateGenerate('2022-01-01','end')");
 gr.orderBy('date');
-//gr.setLimit(10);
 gr.query();
 while (gr.next()) {
-    data.push(parseFloat(gr.getValue('calories')));
+    data1.push(parseFloat(gr.getValue('calories')));
+    data2.push(parseFloat(gr.getValue('heart_points')));
+    data3.push(parseFloat(gr.getValue('steps')));
 }
 
-for (var i = 7; i < data.length; i++) {
-    result.push(((data[i] + data[i - 1] + data[i - 2] + data[i - 3] + data[i - 4] + data[i - 5] + data[i - 6]) / 7).toFixed(2));
+for (var i = 6; i < data1.length; i++) {
+    result1.push(((data1[i] + data1[i - 1] + data1[i - 2] + data1[i - 3] + data1[i - 4] + data1[i - 5] + data1[i - 6]) / 7).toFixed(2));
+    result2.push(((data2[i] + data2[i - 1] + data2[i - 2] + data2[i - 3] + data2[i - 4] + data2[i - 5] + data2[i - 6]) / 7).toFixed(2));
+    result3.push(((data3[i] + data3[i - 1] + data3[i - 2] + data3[i - 3] + data3[i - 4] + data3[i - 5] + data3[i - 6]) / 7).toFixed(2));
 }
 
 var gr1 = new GlideRecord("x_0586_fitness_fitness_details");
-gr1.addEncodedQuery("average_calories=0^ORaverage_calories=NULL");
+gr1.addEncodedQuery("date>=javascript:gs.dateGenerate('2022-01-07','end')");
 gr1.orderBy('date');
 gr1.query();
 while (gr1.next()) {
-    gr1.average_calories = result[resultCounter];
+    gr1.average_calories = result1[resultCounter];
+    gr1.average_heart_points = result2[resultCounter];
+    gr1.average_steps = result3[resultCounter];
     resultCounter = resultCounter + 1;
     gr1.update();
-    //gs.info(gr1.average_steps)
 }]]></script>
         <sys_class_name>sys_script_fix</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-06-19 07:50:58</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>47b533672f40991051dad5f62799b6ff</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Calculate average fitness details</sys_name>
         <sys_package display_value="Fitness" source="x_0586_fitness">e260b76b2f00991051dad5f62799b69b</sys_package>
         <sys_policy/>
@@ -42,7 +51,7 @@ while (gr1.next()) {
         <sys_scope display_value="Fitness">e260b76b2f00991051dad5f62799b69b</sys_scope>
         <sys_update_name>sys_script_fix_47b533672f40991051dad5f62799b6ff</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-19 07:50:58</sys_updated_on>
+        <sys_updated_on>2023-08-29 16:30:26</sys_updated_on>
         <unloadable>false</unloadable>
     </sys_script_fix>
 </record_update>

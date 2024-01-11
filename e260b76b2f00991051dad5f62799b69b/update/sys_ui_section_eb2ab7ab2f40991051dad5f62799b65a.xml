@@ -4,55 +4,55 @@
             <element>.begin_split</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-19 07:06:02</sys_created_on>
-            <sys_id>483abbaf2f40991051dad5f62799b672</sys_id>
+            <sys_created_on>2023-03-29 17:55:15</sys_created_on>
+            <sys_id>81b82ffa4731611086f73e7d826d4322</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_0586_fitness_fitness_details" sys_domain="global" view="Default view">eb2ab7ab2f40991051dad5f62799b65a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-19 07:06:02</sys_updated_on>
+            <sys_updated_on>2023-03-29 17:55:15</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>number</element>
+            <element>date</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-19 07:06:02</sys_created_on>
-            <sys_id>c03abbaf2f40991051dad5f62799b673</sys_id>
+            <sys_created_on>2023-03-29 17:55:15</sys_created_on>
+            <sys_id>85b82ffa4731611086f73e7d826d4322</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_0586_fitness_fitness_details" sys_domain="global" view="Default view">eb2ab7ab2f40991051dad5f62799b65a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-19 07:06:02</sys_updated_on>
+            <sys_updated_on>2023-03-29 17:55:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>average_steps</element>
+            <element>steps</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-19 07:06:02</sys_created_on>
-            <sys_id>c43abbaf2f40991051dad5f62799b673</sys_id>
+            <sys_created_on>2023-03-29 17:55:15</sys_created_on>
+            <sys_id>89b82ffa4731611086f73e7d826d4322</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_0586_fitness_fitness_details" sys_domain="global" view="Default view">eb2ab7ab2f40991051dad5f62799b65a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-19 07:06:02</sys_updated_on>
+            <sys_updated_on>2023-03-29 17:55:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>calories</element>
+            <element>heart_points</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-19 07:06:02</sys_created_on>
-            <sys_id>c83abbaf2f40991051dad5f62799b673</sys_id>
+            <sys_created_on>2023-03-29 17:55:15</sys_created_on>
+            <sys_id>0db8e3fe4731611086f73e7d826d436c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_0586_fitness_fitness_details" sys_domain="global" view="Default view">eb2ab7ab2f40991051dad5f62799b65a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-19 07:06:02</sys_updated_on>
+            <sys_updated_on>2023-03-29 17:55:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,27 +60,27 @@
             <element>move_minutes</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-19 07:06:02</sys_created_on>
-            <sys_id>cc3abbaf2f40991051dad5f62799b673</sys_id>
+            <sys_created_on>2023-03-29 17:55:15</sys_created_on>
+            <sys_id>01b8e3fe4731611086f73e7d826d436d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_0586_fitness_fitness_details" sys_domain="global" view="Default view">eb2ab7ab2f40991051dad5f62799b65a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-19 07:06:02</sys_updated_on>
+            <sys_updated_on>2023-03-29 17:55:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>steps</element>
+            <element>calories</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-19 07:06:02</sys_created_on>
-            <sys_id>c03abbaf2f40991051dad5f62799b674</sys_id>
+            <sys_created_on>2023-03-29 17:55:15</sys_created_on>
+            <sys_id>05b8e3fe4731611086f73e7d826d436d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_0586_fitness_fitness_details" sys_domain="global" view="Default view">eb2ab7ab2f40991051dad5f62799b65a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-19 07:06:02</sys_updated_on>
+            <sys_updated_on>2023-03-29 17:55:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>.split</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-19 07:06:02</sys_created_on>
-            <sys_id>c43abbaf2f40991051dad5f62799b674</sys_id>
+            <sys_created_on>2023-03-29 17:55:15</sys_created_on>
+            <sys_id>09b8e3fe4731611086f73e7d826d436d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_0586_fitness_fitness_details" sys_domain="global" view="Default view">eb2ab7ab2f40991051dad5f62799b65a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-19 07:06:02</sys_updated_on>
+            <sys_updated_on>2023-03-29 17:55:15</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>average_calories</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-19 07:06:02</sys_created_on>
-            <sys_id>c83abbaf2f40991051dad5f62799b674</sys_id>
+            <sys_created_on>2023-03-29 17:55:15</sys_created_on>
+            <sys_id>0db8e3fe4731611086f73e7d826d436d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_0586_fitness_fitness_details" sys_domain="global" view="Default view">eb2ab7ab2f40991051dad5f62799b65a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-19 07:06:02</sys_updated_on>
+            <sys_updated_on>2023-03-29 17:55:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,55 +116,41 @@
             <element>average_heart_points</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-19 07:06:02</sys_created_on>
-            <sys_id>cc3abbaf2f40991051dad5f62799b674</sys_id>
+            <sys_created_on>2023-03-29 17:55:15</sys_created_on>
+            <sys_id>01b8e3fe4731611086f73e7d826d436e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_0586_fitness_fitness_details" sys_domain="global" view="Default view">eb2ab7ab2f40991051dad5f62799b65a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-19 07:06:02</sys_updated_on>
+            <sys_updated_on>2023-03-29 17:55:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>date</element>
+            <element>average_steps</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-19 07:06:02</sys_created_on>
-            <sys_id>c03abbaf2f40991051dad5f62799b675</sys_id>
+            <sys_created_on>2023-03-29 17:55:15</sys_created_on>
+            <sys_id>05b8e3fe4731611086f73e7d826d436e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_0586_fitness_fitness_details" sys_domain="global" view="Default view">eb2ab7ab2f40991051dad5f62799b65a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-19 07:06:02</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>heart_points</element>
-            <position>10</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-19 07:06:02</sys_created_on>
-            <sys_id>c43abbaf2f40991051dad5f62799b675</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_0586_fitness_fitness_details" sys_domain="global" view="Default view">eb2ab7ab2f40991051dad5f62799b65a</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-19 07:06:02</sys_updated_on>
+            <sys_updated_on>2023-03-29 17:55:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>11</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-19 07:06:02</sys_created_on>
-            <sys_id>c83abbaf2f40991051dad5f62799b675</sys_id>
+            <sys_created_on>2023-03-29 17:55:15</sys_created_on>
+            <sys_id>09b8e3fe4731611086f73e7d826d436e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_0586_fitness_fitness_details" sys_domain="global" view="Default view">eb2ab7ab2f40991051dad5f62799b65a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-19 07:06:02</sys_updated_on>
+            <sys_updated_on>2023-03-29 17:55:15</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>

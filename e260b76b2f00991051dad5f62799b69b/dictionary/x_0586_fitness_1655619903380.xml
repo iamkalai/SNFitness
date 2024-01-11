@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="daily activity metrics-cropped.xlsx (Upl" max_length="40" name="x_0586_fitness_1655619903380" sizeclass="0" type="collection">
+    <element db_object_id="c0d2ffaf2f00991051dad5f62799b6bb" extends="sys_import_set_row" label="daily activity metrics-cropped.xlsx (Upl" max_length="40" name="x_0586_fitness_1655619903380" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Average speed (m/s)" label="Average speed (m/s)" max_length="40" name="u_average_speed__m_s_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Average weight (kg)" label="Average weight (kg)" max_length="40" name="u_average_weight__kg_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Biking duration (ms)" label="Biking duration (ms)" max_length="40" name="u_biking_duration__ms_" type="string"/>
         <element attributes="import_attribute_name=Calories (kcal)" label="Calories (kcal)" max_length="40" name="u_calories__kcal_" type="float"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Date" label="Date" max_length="40" name="u_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Distance (m)" label="Distance (m)" max_length="40" name="u_distance__m_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Heart Minutes" label="Heart Minutes" max_length="40" name="u_heart_minutes" type="string"/>
         <element attributes="import_attribute_name=Heart Points" label="Heart Points" max_length="40" name="u_heart_points" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=High latitude (deg)" label="High latitude (deg)" max_length="40" name="u_high_latitude__deg_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=High longitude (deg)" label="High longitude (deg)" max_length="40" name="u_high_longitude__deg_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Inactive duration (ms)" label="Inactive duration (ms)" max_length="40" name="u_inactive_duration__ms_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Low latitude (deg)" label="Low latitude (deg)" max_length="40" name="u_low_latitude__deg_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Low longitude (deg)" label="Low longitude (deg)" max_length="40" name="u_low_longitude__deg_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Max speed (m/s)" label="Max speed (m/s)" max_length="40" name="u_max_speed__m_s_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Max weight (kg)" label="Max weight (kg)" max_length="40" name="u_max_weight__kg_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Min speed (m/s)" label="Min speed (m/s)" max_length="40" name="u_min_speed__m_s_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Min weight (kg)" label="Min weight (kg)" max_length="40" name="u_min_weight__kg_" type="string"/>
         <element attributes="import_attribute_name=Move Minutes count" label="Move Minutes count" max_length="40" name="u_move_minutes_count" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Paced walking duration (ms)" label="Paced walking duration (ms)" max_length="40" name="u_paced_walking_duration__ms_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Running duration (ms)" label="Running duration (ms)" max_length="40" name="u_running_duration__ms_" type="string"/>
         <element attributes="import_attribute_name=Step count" label="Step count" max_length="40" name="u_step_count" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Utility biking duration (ms)" label="Utility biking duration (ms)" max_length="40" name="u_utility_biking_duration__ms_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Walking duration (ms)" label="Walking duration (ms)" max_length="40" name="u_walking_duration__ms_" type="string"/>
     </element>
 </database>
