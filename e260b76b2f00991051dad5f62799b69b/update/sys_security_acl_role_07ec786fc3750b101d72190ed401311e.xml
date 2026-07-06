@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-06 14:27:40</sys_created_on>
+        <sys_id>07ec786fc3750b101d72190ed401311e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.itil</sys_name>
+        <sys_package display_value="Fitness" source="x_0586_fitness">e260b76b2f00991051dad5f62799b69b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fitness">e260b76b2f00991051dad5f62799b69b</sys_scope>
+        <sys_security_acl display_value="x_0586_fitness_fitness_details">0fdcb46fc3750b101d72190ed4013163</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_07ec786fc3750b101d72190ed401311e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-06 14:27:40</sys_updated_on>
+        <sys_user_role display_value="itil" name="itil">282bf1fac6112285017366cb5f867469</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
